@@ -1,0 +1,4 @@
+[submodule "loutrotistic/public"]
+	path = loutrotistic/public
+	url = https://github.com/loutrotistic/loutrotistic.github.io.git
+	branch = main
