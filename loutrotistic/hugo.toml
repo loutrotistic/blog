@@ -1,0 +1,5 @@
+baseURL = 'https://loutrotistic.github.io'
+languageCode = 'en-us'
+title = 'Loutre Blog'
+
+theme = 'archie'
